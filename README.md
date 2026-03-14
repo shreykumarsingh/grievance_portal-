@@ -6,16 +6,6 @@
 5. Start the frontend server using `npm run dev` command in the client directory.
 6. Access the application in your web browser at `http://localhost:5173`.
 
-## Login Details
-
-- To login as a user, you need to register yourself first. If you need an existing account the credentials are email:"iit2021112@iiita.ac.in",password:"savvy123"
-- To login as an officer, the format is [district][department][level(1,2 & 3)]@gmail.com and the password is "password".
-- To login as a district admin, the format is [district]admin@gmail.com and the password is "password".
-
-## License
-
-The Grievance Portal project is open-source and released under the [IIITA License](LICENSE).
-
 ## Contact Information
 
 For any inquiries or suggestions regarding the Grievance Portal, please contact the project contributors:
